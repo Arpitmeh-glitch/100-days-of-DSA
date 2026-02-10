@@ -11,3 +11,4 @@ void reverseString(char* s, int sSize) {
         right--;
     }
 }
+//today is my little brother's birthday yayyyyyyyyyyyyyyyyyyy
